@@ -1,3 +1,2 @@
-# JYOI-from-primer-to-buried
+# JYOI信息学竞赛：从入门到入土
 
-# 徐老师太巨了
